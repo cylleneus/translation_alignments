@@ -10,4 +10,4 @@ Windows: ``C:\Documents and Settings\<User>\Application Data\Local Settings\Cyll
 
 Linux: ``~/.local/share/Cylleneus/corpus``
 
-To check the exact location where corpora should be stored, once Cylleneus is installed you can run ``$ cylleneus dir``.
+To check the exact location where corpora should be stored, once Cylleneus is installed you can run ``$ cylleneus where``.
